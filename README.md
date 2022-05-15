@@ -1,6 +1,6 @@
 Hi im Atharva
 Interested in pentesting , and malware development
-I code stuff in python once in a while
+I code stuff in python once in a while.
 ejpt certified
 
 <!---
