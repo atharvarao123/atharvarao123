@@ -1,7 +1,4 @@
-Hi im Atharva
-Interested in pentesting , and malware development
-I code stuff in python once in a while.
-ejpt certified
+embedded & other programming adventures
 
 <!---
 atharvarao123/atharvarao123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
